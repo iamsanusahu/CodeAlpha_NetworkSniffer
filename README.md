@@ -31,8 +31,9 @@ A lightweight and efficient network sniffer built in Python using Scapy. Capture
 
 ### ▶️ Run the Sniffer
 
-```bash
-python sniffer.py
+```bash/CMD
+notepad NetworkSniffer.py (Paste the Python Code and ctrl + S)
+python NetworkSniffer.py
 
 ⚠️ Run CMD as Administrator if required.
 
