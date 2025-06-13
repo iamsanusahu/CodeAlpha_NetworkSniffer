@@ -1,4 +1,4 @@
-# sniffer.py
+# NetworkSniffer.py
 """
 Network Sniffer - Captures live packets and displays protocol, IPs, ports, and payload.
 
